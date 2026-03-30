@@ -1,0 +1,5 @@
+1. Setup Algorand environment
+2. Develop smart contract
+3. Create frontend (optional)
+4. Integrate blockchain
+5. Testing
